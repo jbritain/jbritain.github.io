@@ -1,0 +1,36 @@
+nav {
+    padding: 16px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: var(--main-bg-color);
+    border-bottom: 1px solid var(--faint-text-color);
+}
+
+footer {
+    border-top: 1px solid var(--faint-text-color);
+    padding: 8px;
+    flex-shrink: 0;
+}
+
+nav a:link, nav a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: white;
+    color: var(--main-bg-color);
+}
+
+nav a:first-of-type{
+    margin-right: auto;
+}
+
+nav a:last-of-type {
+    margin-right: 8px;
+}

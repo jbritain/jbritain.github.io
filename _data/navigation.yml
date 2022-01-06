@@ -1,0 +1,12 @@
+links:
+  - title: home
+    url: /
+
+  - title: projects
+    url: /projects/
+
+  - title: blog
+    url: /blog/
+
+  - title: about
+    url: /about/

@@ -1,0 +1,48 @@
+@import url("fonts.css");
+@import url("navbar.css");
+
+:root {
+    --main-bg-color: #141414;
+    --faint-text-color: #252525;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0px;
+    background-color: var(--main-bg-color);
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+#title-pretext {
+    color: darkgray;
+}
+
+main {
+    margin: 16px;
+    margin-top: 32px;
+    flex: 1 0 auto;
+}
+
+a:link, a:visited {
+    color: lightblue
+}
+
+a:hover {
+    background-color: white;
+    color: var(--main-bg-color);
+}
+ 
+hr {
+     border: 1px solid var(--faint-text-color);
+}
+
+code {
+    background-color: var(--faint-text-color);
+    padding-left: 8px;
+    padding-right: 8px;
+}
