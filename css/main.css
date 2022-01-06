@@ -32,9 +32,9 @@ a:link, a:visited {
     color: lightblue
 }
 
-a:hover {
+a:hover, .link-selected {
     background-color: white;
-    color: var(--main-bg-color);
+    color: var(--main-bg-color) !important;
 }
  
 hr {

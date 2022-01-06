@@ -17,6 +17,11 @@ footer {
     flex-shrink: 0;
 }
 
+nav a {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
 nav a:link, nav a:visited {
     color: white;
     text-decoration: none;

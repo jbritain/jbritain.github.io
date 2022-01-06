@@ -2,6 +2,6 @@
     <a href="/">{{ site.title }}</a>
 
     {% for link in site.data.navigation.links %}
-        <a href="{{ link.url }}">{{ link.title }}</a>
+            <a {% if link.title == page.title %}class="link-selected"{% endif %} href="{{ link.url }}">{{ link.title }}</a>
     {% endfor %}
 </nav>
