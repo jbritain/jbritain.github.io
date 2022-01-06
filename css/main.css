@@ -46,3 +46,7 @@ code {
     padding-left: 8px;
     padding-right: 8px;
 }
+
+main img, article img {
+    max-width: 100%;
+}
