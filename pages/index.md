@@ -7,8 +7,9 @@ permalink: /
 # jbritain.net/
 Hello, and welcome to my website. Here you can find my various programming projects, and a blog where I ramble about them.
 
+**You can find me online on**
 - [Github](https://github.com/pr0x1mas)
-- [YouTube](https://www.youtube.com/channel/UCsixy16a1K_PZ2sudNt2zrQ) (Be warned, this currently contains just memes but I plan to put programming content there in the future)
+- [YouTube](https://www.youtube.com/channel/UCsixy16a1K_PZ2sudNt2zrQ) (Be warned, this currently just contains memes but I plan to put programming content there in the future)
 
 ---
 

@@ -4,8 +4,6 @@ title: Calculating Suicide Burns in Kerbal Space Program
 author: Joshua Britain
 ---
 
-![Header image](/assets/posts/ksp/header.png)
-
 A suicide burn (technically called a 'hoverslam') is quite a simple idea. You have a falling rocket, and you want to have it stop as it hits the ground (as in slow down via engine power, as opposed to stopping because it hit the ground). Basically, you want to bring your velocity down to zero metres per second just before you hit the ground. It sounds simple (not really, but let me make it dramatic, OK?). And that's what I thought. As you might expect, it wasn't.
 
 I play a game called Kerbal Space Program. It's a fun simulation of a solar system populated by little aliens called Kerbals, and the aim is to build rockets or other spacecraft in order to get to, well, wherever the hell you want to go. It's good fun, and it can go from being as simple as building a little rocket that gets to orbit to [sending a replica helicarrier to one of the moons of the Jupiter equivalent](https://www.youtube.com/watch?v=kPprYMcS5lA). In this game, you can indeed perform a suicide burn as described earlier, but the question is this: **how do you know when to start burning?** I wanted to understand the maths behind this, and set out to do so.
