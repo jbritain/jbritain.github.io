@@ -3,7 +3,11 @@
 
 :root {
     --main-bg-color: #141414;
+
+    --main-text-color: #FFFFFF;
     --faint-text-color: #252525;
+
+    --link-color: lightBlue;
 }
 
 html, body {
@@ -13,13 +17,13 @@ html, body {
 body {
     margin: 0px;
     background-color: var(--main-bg-color);
-    color: white;
+    color: var(--main-text-color);
     display: flex;
     flex-direction: column;
 }
 
 #title-pretext {
-    color: darkgray;
+    color: var(--faint-text-color);
 }
 
 main {
@@ -29,11 +33,11 @@ main {
 }
 
 a:link, a:visited {
-    color: lightblue
+    color: var(--link-color);
 }
 
 a:hover, .link-selected {
-    background-color: white;
+    background-color: var(--main-text-color);
     color: var(--main-bg-color) !important;
 }
  
@@ -49,6 +53,10 @@ code {
 
 main img, article img {
     max-width: 100%;
+}
+
+figcaption {
+    font-style: italic;
 }
 
 table, th, td {
@@ -67,4 +75,40 @@ th {
 
 main {
     overflow: hidden;
+}
+
+button, .card {
+    background-color: var(--main-bg-color);
+    border: 1px solid var(--faint-text-color);
+    border-radius: 2px;
+    padding: 8px;
+    color: var(--main-text-color);
+}
+
+button {
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+button:hover {
+    background-color: var(--main-text-color);
+    color: var(--main-bg-color);
+}
+
+.card {
+    display: inline-block;
+    flex-grow: 1;
+}
+
+@media screen and (min-width: 600px) {
+    .card {
+        flex-basis: 300px;
+    }
+}
+
+.card-container {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-content: flex-start;
 }

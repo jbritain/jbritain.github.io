@@ -4,16 +4,21 @@ title: projects
 permalink: /projects/
 ---
 
-{% for project in site.projects %}
-    <h3>{{ project.title }}</h3>
-    {{ project }}
+<div class="card-container">
+    {% for project in site.projects %}
 
-    {% if project.link != nil %}
-        <a href="{{ project.link }}">See more</a>
-    {% endif %}
+        <div class="card">
+            <h3>{{ project.title }}</h3>
+            <p>{{ project }}</p>
 
-    {% if project.code != nil %}
-        <a href="{{ project.code }}">View code</a>
-    {% endif %}
-    <hr>
-{% endfor %}
+            {% if project.link != nil %}
+                <a href="{{ project.link }}">See more</a>
+            {% endif %}
+
+            {% if project.code != nil %}
+                <a href="{{ project.code }}">View code</a>
+            {% endif %}
+        </div>
+
+    {% endfor %}
+</div>

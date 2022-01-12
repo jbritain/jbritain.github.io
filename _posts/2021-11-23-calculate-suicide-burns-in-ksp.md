@@ -50,7 +50,7 @@ Now my craft was being simulated, the next thing to do was work out if we had la
 
 We have a variable called `precision`, which starts at 1. This is essentially the time delta for the loop that simulates the rocket.
 We also have a variable called `startOffset`. This is how long the craft waits before burning the engine.
-In this case, I'm also creating something called the 'offset modifier'. This is equal to $$ \frac{1}{10P} $$
+In this case, I'm also creating something called the 'offset modifier'. This is equal to $$ \frac{1}{10P} $$. With all this, I
 
 - Simulate until craft has landed, run out of fuel, or crashed
 - If we have landed: congratulations, suicide burn. You should start burning at the start offset.
@@ -62,6 +62,8 @@ This should have worked, and I was stumped for a couple of days when for some re
 
 # Creating a website
 Having got my Python prototype working, I decided to create a website so that anyone else who is conveniently heading directly downwards in a craft with only one engine to a planet with no atmosphere could also calculate when to start burning. I decided not to style it with [Primer CSS](https://primer.style/css) for a change, and instead went with Bootstrap. The reason was that the inspiration for this site partially came from [alexmoon's Launch Window Planner](https://alexmoon.github.io/ksp/). I liked the UI style of this website and so shamelessly copied it, including using an older version to get the same aesthetic. As it is, I quite like bootstrap's column system so I think I'll actually use the latest version in my next few web projects.
+
+*Edit: since then I have updated the site to use Bootstrap 5.*
 
 <figure style="display: inline-block">
     <img style="max-width: 40vw;" src="/assets/posts/ksp/site.png">
