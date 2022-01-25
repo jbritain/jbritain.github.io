@@ -74,7 +74,7 @@ Having got my Python prototype working, I decided to create a website so that an
     <figcaption>alexmoon's Launch Window Planner.</figcaption>
 </figure>
 
-Surprisingly, converting the tool into a website went without a hitch; I translated my Python into JavaScript, created a form to input the numbers, and now I have a working calculator! You can view it [here](https://pr0x1mas.github.io/KSP-Suicide-Burn-Calculator/).
+Surprisingly, converting the tool into a website went without a hitch; I translated my Python into JavaScript, created a form to input the numbers, and now I have a working calculator! You can view it [here](https://jbritain.github.io/KSP-Suicide-Burn-Calculator/).
 
 # Future plans
 This tool is not finished and I plan to add the following

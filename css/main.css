@@ -5,6 +5,7 @@
     --main-bg-color: #141414;
 
     --main-text-color: #FFFFFF;
+    --light-text-color: #646464;
     --faint-text-color: #252525;
 
     --link-color: lightBlue;
@@ -23,7 +24,7 @@ body {
 }
 
 #title-pretext {
-    color: var(--faint-text-color);
+    color: var(--light-text-color);
 }
 
 main {

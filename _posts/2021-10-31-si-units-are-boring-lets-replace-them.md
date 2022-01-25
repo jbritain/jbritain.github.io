@@ -24,7 +24,7 @@ Introducing...
 # Nacia Netradicia
 **My alternative unit system**
 
-Nacia Netradicia is Esperanto for “national unconventional”, intended to be the exact opposite of the translation of SI (Standard Internationale): “international standard”. I've used Esperanto since it was meant to be a universal language, so it seemed fitting. I have actually made this a full on website and Github repo you can check out [here](https://pr0x1mas.github.io/not-si-units/) if you want to read about all of the units.
+Nacia Netradicia is Esperanto for “national unconventional”, intended to be the exact opposite of the translation of SI (Standard Internationale): “international standard”. I've used Esperanto since it was meant to be a universal language, so it seemed fitting. I have actually made this a full on website and Github repo you can check out [here](https://jbritain.github.io/not-si-units/) if you want to read about all of the units.
 
 With the help of my physics class, I have redefined all of the units as follows:
 
@@ -42,7 +42,7 @@ There are also conversion ratios for each one and a conversion calculator, but s
 
 # The Technical Details
 
-To start off, I have two csv files - [base.csv](https://github.com/Pr0x1mas/not-si-units/blob/main/unitGen/base.csv) and [units.csv](https://github.com/Pr0x1mas/not-si-units/blob/main/unitGen/units.csv). Originally I had JS load and display the units in a table dynamically, but then my good friend [The Goose Lord](https://github.com/TheProgramableTurtle) raised a very good point - users of the 3DS Browser would not be able to view the site in the 3DS Browser.
+To start off, I have two csv files - [base.csv](https://github.com/jbritain/not-si-units/blob/main/unitGen/base.csv) and [units.csv](https://github.com/jbritain/not-si-units/blob/main/unitGen/units.csv). Originally I had JS load and display the units in a table dynamically, but then my good friend [The Goose Lord](https://github.com/TheProgramableTurtle) raised a very good point - users of the 3DS Browser would not be able to view the site in the 3DS Browser.
 
 <figure>
     <img src="/assets/posts/si/3ds.webp">
@@ -54,7 +54,7 @@ To start off, I have two csv files - [base.csv](https://github.com/Pr0x1mas/not-
     <figcaption>The website running on my 3DS XL, albeit not very well.</figcaption>
 </figure>
 
-As a result, I knew I had to go back to the drawing board, so I wrote a [python script](https://github.com/Pr0x1mas/not-si-units/blob/main/unitGen/generate_units.py) (warning, hacky code!) to generate markdown files for each unit from the CSV file. Then, through the use of Liquid filters since I was already using Jekyll, the page will now generate the table to be served statically, meaning it can be happily viewed on the 3DS browser. This also has the happy side effect of allowing a page for each unit where I can write up a description for it.
+As a result, I knew I had to go back to the drawing board, so I wrote a [python script](https://github.com/jbritain/not-si-units/blob/main/unitGen/generate_units.py) (warning, hacky code!) to generate markdown files for each unit from the CSV file. Then, through the use of Liquid filters since I was already using Jekyll, the page will now generate the table to be served statically, meaning it can be happily viewed on the 3DS browser. This also has the happy side effect of allowing a page for each unit where I can write up a description for it.
 
 To calculate the conversion ratios for non base units, I found [this list](https://physics.nist.gov/cuu/Units/units.html) of formulae expressed in such a way that I can easily have my python script calculate the values for me without having to do any rearranging or algebra.
 

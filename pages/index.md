@@ -4,11 +4,11 @@ title: home
 permalink: /
 ---
 
-# jbritain.net/
+# {{ site.title }}/
 Hello, and welcome to my website. Here you can find my various programming projects, and a blog where I ramble about them.
 
 **You can find me online on**
-- [Github](https://github.com/pr0x1mas)
+- [Github](https://github.com/jbritain)
 - [YouTube](https://www.youtube.com/channel/UCsixy16a1K_PZ2sudNt2zrQ) (Be warned, this currently just contains memes but I plan to put programming content there in the future)
 
 ---
