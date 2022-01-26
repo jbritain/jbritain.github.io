@@ -14,3 +14,4 @@ This list will be updated periodically.
 - [Who Killed Captain Alex](https://en.wikipedia.org/wiki/Who_Killed_Captain_Alex%3F)
 - [Adolf Hitler (Namibian Politician)](https://simple.wikipedia.org/wiki/Adolf_Hitler_Uunona)
 - [Just Room Enough Island](https://en.wikipedia.org/wiki/Just_Room_Enough_Island)
+- [Haesindang Park](https://en.wikipedia.org/wiki/Haesindang_Park)
