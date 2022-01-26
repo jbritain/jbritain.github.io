@@ -12,3 +12,5 @@ This list will be updated periodically.
 - [List of Sexually Active Popes](https://en.wikipedia.org/wiki/List_of_sexually_active_popes)
 - [Danish Protest Pig](https://en.wikipedia.org/wiki/Danish_Protest_Pig)
 - [Who Killed Captain Alex](https://en.wikipedia.org/wiki/Who_Killed_Captain_Alex%3F)
+- [Adolf Hitler (Namibian Politician)](https://simple.wikipedia.org/wiki/Adolf_Hitler_Uunona)
+- [Just Room Enough Island](https://en.wikipedia.org/wiki/Just_Room_Enough_Island)
