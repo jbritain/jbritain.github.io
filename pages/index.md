@@ -21,3 +21,6 @@ Hello, and welcome to my website. Here you can find my various programming proje
 {% endfor %}
 
 [See more posts](/blog)
+
+## Other Stuff
+- [List of Funny Wikipedia Articles](/wikipedia)

@@ -2,6 +2,7 @@ title: jbritain.github.io
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 collections:
   - projects
