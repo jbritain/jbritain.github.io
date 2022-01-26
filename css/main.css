@@ -14,14 +14,15 @@ html, body {
     height: 100%;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    font-family: 'Anonymous Pro', monospace;
+    font-family: 'Ubuntu Mono', monospace;
 }
 
 h1 {
     font-size: calc(1.375rem + 1.5vw);
+    overflow-wrap: break-word;
 }
 
 h2 {
