@@ -15,3 +15,6 @@ This list will be updated periodically.
 - [Adolf Hitler (Namibian Politician)](https://simple.wikipedia.org/wiki/Adolf_Hitler_Uunona)
 - [Just Room Enough Island](https://en.wikipedia.org/wiki/Just_Room_Enough_Island)
 - [Haesindang Park](https://en.wikipedia.org/wiki/Haesindang_Park)
+- [Attempted Theft of George Washington's Skull](https://en.wikipedia.org/wiki/Attempted_theft_of_George_Washington%27s_skull)
+
+Credit for finding several of these gems goes to my friend Scott.
