@@ -57,7 +57,7 @@ We also mapped the joystick to the directional pad so that it would allow use to
 
 In order to install games on your arcade machine, you will need to get the ROMs for them. Legally you should dump the games you own and only play them but of course I do not own classic arcade machines and so instead googled for example, "space invaders arcade ROM". In order to install the games, you have a few options:
 
-- Connect your Pi to your network and access it by typing `\\RETROPIE` into the address bar [WINDOWS ONLY]
+- Connect your Pi to your network and access it by typing `\\RETROPIE` into the address bar [WINDOWS ONLY] [(Instructions for connecting to wifi)](https://retropie.org.uk/docs/Wifi/)
 - Insert a USB drive into the Pi with the ROMs and transfer them. I haven't had an opportunity to try this but a Google search will probably tell you how.
 
 Either way, you then place your ROM in the appropriate subfolder of 'roms', for example arcade games will go in the 'arcade' folder.

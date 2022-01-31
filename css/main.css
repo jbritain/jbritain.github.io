@@ -132,3 +132,7 @@ button:hover {
     flex-wrap: wrap;
     align-content: flex-start;
 }
+
+.card *:first-child {
+    margin-top: 0px;
+}
