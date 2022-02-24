@@ -17,5 +17,6 @@ This list will be updated periodically.
 - [Haesindang Park](https://en.wikipedia.org/wiki/Haesindang_Park)
 - [Attempted Theft of George Washington's Skull](https://en.wikipedia.org/wiki/Attempted_theft_of_George_Washington%27s_skull)
 - [Deleted Wikipedia Articles With Freaky Titles](https://en.wikipedia.org/wiki/Wikipedia:Deleted_articles_with_freaky_titles)
+- [Cock and Ball Torture (band) [NSFW]](https://en.wikipedia.org/wiki/Cock_and_Ball_Torture_(band))
 
 Credit for finding several of these gems goes to my friend Scott.
