@@ -1,5 +1,8 @@
 title: jbritain.github.io
 
+github: jbritain
+youtube: UCsixy16a1K_PZ2sudNt2zrQ
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
