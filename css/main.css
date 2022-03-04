@@ -136,3 +136,7 @@ button:hover {
 .card *:first-child {
     margin-top: 0px;
 }
+
+#navTitle {
+    text-decoration: underline;
+}
