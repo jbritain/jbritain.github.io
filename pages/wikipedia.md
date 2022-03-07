@@ -1,5 +1,5 @@
 ---
-title: List of Funny Wikipedia Articles
+title: funny wikipedia articles
 permalink: /wikipedia/
 layout: page
 ---
