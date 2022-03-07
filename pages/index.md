@@ -20,12 +20,13 @@ Hello, and welcome to my website. Here you can find my various programming proje
 {{ post.excerpt }}
 {% endfor %}
 
-[See more posts](/blog)
+[More posts](/blog)
 
 ## Latest YouTube Video
-Might be a meme, might be a demo of a project, might be a random game clip.
-
+<h3 id="YTTitle">Video failed to load</h3>
+<small id="YTInfo"></small>
 <iframe style="width: 560px; height: 315px; max-width: 100%" frameborder="0" class="card" id="YTEmbed">Your browser does not support iFrames.</iframe>
+<p id="YTDescription"></p>
 
 [More videos](https://www.youtube.com/channel/{{ site.youtube }})
 
@@ -35,15 +36,26 @@ Might be a meme, might be a demo of a project, might be a random game clip.
 
 <script> // yes, javascript code I wrote myself that isn't spaghetti
     const frame = document.getElementById("YTEmbed");
+    const title = document.getElementById("YTTitle")
+    const info = document.getElementById("YTInfo")
+    const description = document.getElementById("YTDescription")
+
     const channelID = "{{ site.youtube }}";
-    var guid="";
                 
     fetch("https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent("https://www.youtube.com/feeds/videos.xml?channel_id=" + channelID))
         .then(response => response.json())
         .then(data => {
-            guid = data["items"][0]["guid"]
-            const embedURL = "https://www.youtube-nocookie.com/embed/" + guid.replace("yt:video:", "")
+            video = data["items"][0];
+            guid = video["guid"]
+
+            const embedURL = "https://www.youtube-nocookie.com/embed/" + guid.replace("yt:video:", "");
+            
             frame.src = embedURL;
+            title.innerText = video["title"];
+            info.innerText = "By " + video["author"]
+            description.innerText = video["description"]
+
+            console.log(data)
         })
         .catch(console.error);
 </script>
