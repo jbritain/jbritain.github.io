@@ -31,6 +31,7 @@ Might be a meme, might be a demo of a project, might be a random game clip.
 
 ## Other Stuff
 - [List of Funny Wikipedia Articles](/wikipedia)
+- [Funny Quotes From My Discord Server](/quotes)
 
 <script> // yes, javascript code I wrote myself that isn't spaghetti
     const frame = document.getElementById("YTEmbed");
