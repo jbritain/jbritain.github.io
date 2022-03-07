@@ -144,3 +144,17 @@ button:hover {
 #navTitle {
     text-decoration: underline;
 }
+
+blockquote p {
+    font-style: italic;
+}
+
+blockquote p::before, blockquote p::after {
+    content: '"'
+}
+
+blockquote {
+    margin-left: 20px;
+    padding-left: 20px;
+    border-left: 8px solid var(--faint-text-color);
+}
