@@ -54,8 +54,6 @@ Hello, and welcome to my website. Here you can find my various programming proje
             title.innerText = video["title"];
             info.innerText = "By " + video["author"]
             description.innerText = video["description"]
-
-            console.log(data)
         })
         .catch(console.error);
 </script>
