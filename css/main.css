@@ -8,6 +8,9 @@
     --faint-text-color: #252525;
 
     --link-color: lightBlue;
+    --visited-color: plum;
+    
+    /* I hate using the american spelling of colour but it keeps things consistent */
 }
 
 html, body {
@@ -56,8 +59,12 @@ main {
     flex: 1 0 auto;
 }
 
-a:link, a:visited {
+a:link {
     color: var(--link-color);
+}
+
+a:visited {
+    color: var(--visited-color);
 }
 
 a:hover, .link-selected {
