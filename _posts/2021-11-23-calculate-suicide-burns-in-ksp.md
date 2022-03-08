@@ -78,7 +78,7 @@ Surprisingly, converting the tool into a website went without a hitch; I transla
 
 # Future plans
 This tool is not finished and I plan to add the following
-- A dropdown menu to select your engine instead of manually adding the stats (I'll need a script to pull the data from the wiki, I'm not manually copying it in like with the planets)
+- ~~A dropdown menu to select your engine instead of manually adding the stats (I'll need a script to pull the data from the wiki, I'm not manually copying it in like with the planets)~~
 - Support for surface velocity, assuming you constantly burn retrograde
 - Multiple engine support (the maths is gonna get confusing fast)
 - Auto calculation of the surface height based on elevation data from the game (I have no idea if this is even possible to obtain) and coordinates
