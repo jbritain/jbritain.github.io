@@ -60,3 +60,33 @@ Here are some of the best quotes from a Discord server I have with my friends.
 > If I'm wrong, I'll kill myself.
 
 > We telling man how to unbake cake.
+
+> I like my women how I like my pets: alive
+
+> Sergei, the Russian Government have impounded my yacht at comparethemarket.com
+
+> We kettle in style
+
+> we do not need Dr Shand walking in on us kettling milk
+
+> you get a child but it's next day delivery
+
+> this is why you pirate things, you get hot milfs in your area
+
+> This mf takes the food out the microwave and then turns it on
+
+> Those bloody Norwegians inventing meatballs and flat pack furniture
+
+> The  forbidden spicy ibuprofen smartie
+
+> I can taste UV rays
+
+> I have lost a leg and request your assistance in finding it
+
+> I don't go around deepthroating hedgehogs
+
+> I'm calling you a mattress
+
+> Someone turn off his wifi!
+
+> I do not eat children
