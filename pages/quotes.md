@@ -6,60 +6,60 @@ permalink: /quotes/
 
 Here are some of the best quotes from a Discord server I have with my friends.
 
-> Lurpak is the Satan's spread.
+> Lurpak is the Satan's spread
 
 > Hold on, hold on, that taxi says penis!
 
-> You can't kettle the milk.
+> You can't kettle the milk
 
-> I thought brexit was a company that made lego.
+> I thought brexit was a company that made lego
 
-> 100% Pure-Bred Cap.
+> 100% Pure-Bred Cap
 
-> He better do the viagra.
+> He better do the viagra
 
-> I want to oscillate with those children.
+> I want to oscillate with those children
 
 > It's useful...but I hate it.
 
-> Yes but I am a raging racist who made a ligma joke out of a cathedral.
+> Yes but I am a raging racist who made a ligma joke out of a cathedral
 
-> I don't want to accidentally commit a war crime.
+> I don't want to accidentally commit a war crime
 
-> That's like saying Bill Cosby isn't that bad because Ted Bundy existed.
+> That's like saying Bill Cosby isn't that bad because Ted Bundy existed
 
-> drink the luminous skin of the piss jar.
+> drink the luminous skin of the piss jar
 
-> I do not have a problem with blowing up a church.
+> I do not have a problem with blowing up a church
 
 > Wasn't time invented in Norway?
 
-> It's like tetris but I'm winning.
+> It's like tetris but I'm winning
 
-> I may have butchered the bag but I'm not being a scapegoat for spilled muesili.
+> I may have butchered the bag but I'm not being a scapegoat for spilled muesili
 
-> I hope you shit out a cactus.
+> I hope you shit out a cactus
 
-> Fat fucking otter stealing the women.
+> Fat fucking otter stealing the women
 
 > How do you unsieve flour?
 
-> Euthanasia, the thinking man’s care home.
+> Euthanasia, the thinking man’s care home
 
-> Oh, pissing bees.
+> Oh, pissing bees
 
-> Didn’t like the drip rooster, didn't like the funny image.
+> Didn’t like the drip rooster, didn't like the funny image
 
 > You know what I would rather do than revise, pull out every fucking hair with the power of my door and a long piece of string.
 
 > Wait, bananas aren't dairy?
 
-> Simply un-squish the face.
+> Simply un-squish the face
 
 > Sneezing has nothing to do with the nose.  
 > If I'm wrong, I'll kill myself.
 
-> We telling man how to unbake cake.
+> We telling man how to unbake cake
 
 > I like my women how I like my pets: alive
 
@@ -87,6 +87,6 @@ Here are some of the best quotes from a Discord server I have with my friends.
 
 > I'm calling you a mattress
 
-> Someone turn off his wifi!
-
 > I do not eat children
+
+> Itt's not torture, I'm just speedrunning their will
