@@ -89,4 +89,4 @@ Here are some of the best quotes from a Discord server I have with my friends.
 
 > I do not eat children
 
-> Itt's not torture, I'm just speedrunning their will
+> It's not torture, I'm just speedrunning their will
