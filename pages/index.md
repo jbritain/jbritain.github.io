@@ -11,6 +11,8 @@ Hello, and welcome to my website. Here you can find my various programming proje
 - [Github](https://github.com/{{ site.github }})
 - [YouTube](https://www.youtube.com/channel/{{ site.youtube }})
 
+If you want to contact me, fill out the form on the [contact page](/contact) to send me an email.
+
 ---
 
 ## Latest Blog Post
