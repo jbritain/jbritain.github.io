@@ -58,4 +58,6 @@ If you want to contact me, fill out the form on the [contact page](/contact) to 
             description.innerText = video["description"]
         })
         .catch(console.error);
+
+    frame.style.height = (frame.clientWidth * (9/16)).toString() + "px";
 </script>
