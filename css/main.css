@@ -5,7 +5,7 @@
 
     --main-text-color: #FFFFFF;
     --light-text-color: #646464;
-    --faint-text-color: #252525;
+    --faint-text-color: #3a3a3a;
 
     --link-color: lightBlue;
     --visited-color: plum;
@@ -77,7 +77,10 @@ a:hover, .link-selected {
 }
  
 hr {
-     border: 1px solid var(--faint-text-color);
+    border: none;
+    height: 1px;
+    color: var(--faint-text-color);
+    background-color: var(--faint-text-color);
 }
 
 code {
@@ -116,7 +119,7 @@ button, .card, input, textarea {
     font-family: 'Hack', monospace;
     background-color: var(--main-bg-color);
     border: 1px solid var(--faint-text-color);
-    border-radius: 2px;
+    border-radius: 4px;
     padding: 8px;
     color: var(--main-text-color);
 }
