@@ -3,6 +3,7 @@ nav {
     display: flex;
     gap: 8px;
     flex-wrap: wrap;
+    justify-content: flex-end;
     position: sticky;
     top: 0px;
     max-width: 100vw;
