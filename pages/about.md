@@ -4,9 +4,16 @@ title: about
 permalink: /about/
 ---
 
-![](https://github.com/jbritain.png)
+![My avatar](https://github.com/jbritain.png)
 
-Aspiring software developer with an unhealthy addiction to Geometry Dash.
+Joshua Britain
 
-> I do not think, therefore I do not am.
+> "I do not think, therefore I do not am."
 
+*(This quote has no significance, I just think it's funny.)*
+
+I'm an aspiring software developer with an unhealthy addiction to Geometry Dash. I mainly program in Python and JavaScript, but I'm slowly learning C.
+
+A fun fact about this website is that the formatting remains almost identical with no CSS. This website's HTML is about as simple as it gets, but still completely functional! I decided to do this because on the previous iteration of it, the page would take an absolute age to load and if the CSS screwed up then the page was nearly unusable. I aimed to fix this by making my new site as simple as possible, and I think I achieved that. 
+
+I've actually had this site since early 2019, and I've been slowly iterating on it and improving my web development skills. You can see all the old versions on the [old GitHub repo](https://github.com/jbritain/pr0x1mas.github.io) At some point I'll probably get my own domain and migrate everything off GitHub, but that's a project for another day.

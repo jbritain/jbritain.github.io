@@ -164,9 +164,11 @@ blockquote p {
     font-style: italic;
 }
 
+/*
 blockquote p::before, blockquote p::after {
     content: '"'
 }
+*/
 
 blockquote {
     margin-left: 20px;
