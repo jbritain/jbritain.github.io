@@ -9,3 +9,5 @@ plugins:
 
 collections:
   - projects
+
+permalink: pretty

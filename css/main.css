@@ -15,6 +15,7 @@
 
 html, body {
     height: 100%;
+    scroll-behavior: smooth;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
@@ -183,4 +184,9 @@ input:not(input[type=button], input[type=submit], input[type=reset]), form, text
 textarea {
     resize: vertical;
     min-height: 4em;
+}
+
+.anchor_heading {
+    color: var(--faint-text-color) !important;
+    text-decoration: none;
 }
