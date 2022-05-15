@@ -84,8 +84,11 @@ hr {
     background-color: var(--faint-text-color);
 }
 
-code {
+code, pre {
     background-color: var(--faint-text-color);
+}
+
+code {
     padding-left: 8px;
     padding-right: 8px;
 }

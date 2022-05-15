@@ -1,7 +1,7 @@
 ---
 layout: page
 title: funny quotes from my discord server
-permalink: /quotes/
+permalink: /fun/quotes/
 ---
 
 Here are some of the best quotes from a Discord server I have with my friends.

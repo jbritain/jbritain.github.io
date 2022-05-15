@@ -1,10 +1,10 @@
 ---
 title: funny wikipedia articles
-permalink: /wikipedia/
+permalink: //fun/wikipedia/
 layout: page
 ---
 
-A compilation of funny Wikipedia articles I find. 
+A compilation of funny Wikipedia articles I find. It's mainly the titles or context that's funny, most Wikipedia articles themselves aren't very fun.
 This list will be updated periodically.
 
 - [Catmando](https://en.wikipedia.org/wiki/Catmando)
@@ -17,6 +17,6 @@ This list will be updated periodically.
 - [Haesindang Park](https://en.wikipedia.org/wiki/Haesindang_Park)
 - [Attempted Theft of George Washington's Skull](https://en.wikipedia.org/wiki/Attempted_theft_of_George_Washington%27s_skull)
 - [Deleted Wikipedia Articles With Freaky Titles](https://en.wikipedia.org/wiki/Wikipedia:Deleted_articles_with_freaky_titles)
-- [Cock and Ball Torture (band) [NSFW]](https://en.wikipedia.org/wiki/Cock_and_Ball_Torture_(band))
+- [Cock and Ball Torture (band)](https://en.wikipedia.org/wiki/Cock_and_Ball_Torture_(band))
 
 Credit for finding several of these gems goes to my friend Scott.

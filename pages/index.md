@@ -32,10 +32,6 @@ If you want to contact me, fill out the form on the [contact page](/contact) to 
 
 [More videos](https://www.youtube.com/channel/{{ site.youtube }})
 
-## Other Stuff
-- [List of Funny Wikipedia Articles](/wikipedia)
-- [Funny Quotes From My Discord Server](/quotes)
-
 <script> // yes, javascript code I wrote myself that isn't spaghetti
     const frame = document.getElementById("YTEmbed");
     const title = document.getElementById("YTTitle")
