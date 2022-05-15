@@ -1,0 +1,18 @@
+---
+permalink: /templates/before
+---
+
+<!doctype html>
+
+<!--Copyright {{ 'now' | date: "%Y" }}, Joshua Britain. All rights reserved.-->
+
+<html>
+    {%- include absoluteHead.html -%}
+
+    <body>
+        <script>
+            console.log("{{ site.title }}")
+        </script>
+        {%- include absoluteNavbar.html -%}
+
+        <main>
