@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turning an Old School Computer Into a Minecraft Server
+title: Turning an Old School Computer Into a Minecraft Server - Part 1
 author: Joshua Britain
 ---
 
