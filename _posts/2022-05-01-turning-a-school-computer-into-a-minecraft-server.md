@@ -2,6 +2,7 @@
 layout: post
 title: Turning an Old School Computer Into a Minecraft Server - Part 1
 author: Joshua Britain
+tags: Project Linux Hardware Minecraft
 ---
 
 Recently I came into possession of a computer my school was throwing out. It's pretty old, in fact it's from roughly 2009, a HP Compaq Elite 8000 with a Core 2 Duo E8400 and 2GB of RAM. Yes, this thing was in use until it was thrown out, and while most of the other computers in my school are newer, the room this particular model came from is still full of these old machines, and let me tell you, *they are unusable*, even on Windows 7. I guarantee the bottleneck is the RAM. Honestly, I was lucky it even worked - I only found out I could take it because I wanted a dead monitor for the VESA stand (side rant, the stand didn't even fit the monitor I had because HP added a bulge in the middle that matches a hole in the original monitor). The only problem with it was a dead CMOS battery, and even then it would boot if you set the correct system date. It certainly wasn't worth the effort of the school changing it out anyway, because they have loads of better spare computers to replace it with.

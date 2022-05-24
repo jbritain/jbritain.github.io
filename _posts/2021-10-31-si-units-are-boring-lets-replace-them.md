@@ -2,6 +2,7 @@
 layout: post
 title: S.I Units are boring - let's replace them!
 author: Joshua Britain
+tags: Project Web
 ---
 
 The S.I Units (International System of Units) is the standard system of measurement used to give values for 1 unit of something. Each of these units are derived from 7 base units for time, length, mass, current, temperature, amount of substance, and luminous intensity. The standard unit of mass, the kilogram, was until very recently (2019) defined by the International Prototype of the Kilogram, a lump of platinum and iridium sitting in the Archives Nationales, and it was from this that I got the idea: *what would be to stop someone from breaking into the Archives Nationales and replacing the International Prototype of the Kilogram with say, a dead pigeon?*

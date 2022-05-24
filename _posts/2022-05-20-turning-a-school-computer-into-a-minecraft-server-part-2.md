@@ -2,6 +2,7 @@
 title: Turning an Old School Computer Into a Minecraft Server - Part 2
 layout: post
 author: Joshua Britain
+tags: Project Linux Hardware Minecraft
 ---
 
 Since my previous post, I've made a few improvements to the setup for my Minecraft server hosted on a computer that formerly belonged to my school (if you haven't read [part 1]({% post_url 2022-05-01-turning-a-school-computer-into-a-minecraft-server %}), I suggest you do that first), and I have decided to document them, as much for myself (in case I want to do something similar in the future) as for anyone else.

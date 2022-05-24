@@ -2,6 +2,7 @@
 layout: post
 title:  Resurrect your 2012 Google Nexus 7
 author: Joshua Britain
+tags: Guide Android
 ---
 
 The 2012 Nexus 7 is an android tablet that is definitely showing it's age. Released with Android 4.1 Jellybean, and updated all the way to 5.1 Lollipop, it has got progressively slower in recent years, and these days it is basically unusable. Restoring the tablet to an older factory image such as 4.4 Kitkat helps a bit, but it's still slow and you then lose support for some apps. Indeed, Android 5.1 is starting to lose support for some apps, so this guide aims to fix one or both of these issues, by installing  ParrotMod, a flashable that improves performance, as well as a custom ROM such as LineageOS or CyanogenMod if you want to.

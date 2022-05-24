@@ -5,6 +5,8 @@ layout: default
 <h1>{{ page.title }}</h1>
 <p>By {{ page.author }}  • {{ page.date | date: "%-d %B %Y" }}</p>
 
+<p>Tags: <i>{{ page.tags | join: ", " }}</i></p>
+
 <hr>
 
 <div class="card">

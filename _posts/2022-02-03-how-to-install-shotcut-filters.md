@@ -2,6 +2,7 @@
 layout: post
 title: How To Install Custom Filters In Shotcut
 author: Joshua Britain
+tags: Guide Windows
 ---
 
 This is a pretty small post here, but I recently was attempting to install a user made filter in Shotcut, and couldn't find any instructions online on how to do so, so here's what you do.

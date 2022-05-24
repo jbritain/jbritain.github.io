@@ -4,6 +4,8 @@ title: home
 permalink: /
 ---
 
+
+
 # {{ site.title }}/
 Hello, and welcome to my website. Here you can find my various programming projects, and a blog where I ramble about them.
 
@@ -18,7 +20,8 @@ If you want to contact me, fill out the form on the [contact page](/contact) to 
 ## Latest Blog Post
 {% for post in site.posts limit:1 %}
 ### [{{ post.title }}]({{ post.url }})
-<small>By {{ post.author }} • {{ post.date | date: "%-d %B %Y" }}</small>
+<small>By {{ post.author }} • {{ post.date | date: "%-d %B %Y" }}</small><br>
+<small>Tags: <i>{{ post.tags | join: ", " }}</i></small>
 {{ post.excerpt }}
 {% endfor %}
 

@@ -5,12 +5,22 @@ layout: page
 ---
 
 <h2>All posts</h2>
-<ul>
-    {% for post in site.posts %}
+<a href="/blogtags">View posts by tag</a>
+
+{% for post in site.posts %}
+    {% assign currentdate = post.date | date: "%Y" %}
+    {% if currentdate != date %}
+        {% unless forloop.first %}</ul>{% endunless %}
+        <h3 id="{{currentdate}}">{{ currentdate }} <a class="anchor_heading" href="#{{currentdate}}">#</a></h3>
+        <ul>
+        {% assign date = currentdate %} 
+    {% endif %}
+
     <small>{{ post.date | date_to_long_string }}</small>
     <li>
         <a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <br>
+        <small><i>{{ post.tags | join: ", " }}</i></small>
     </li>
     <hr>
-    {% endfor %}
-</ul>
+{% endfor %}

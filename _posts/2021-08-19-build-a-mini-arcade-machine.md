@@ -2,6 +2,7 @@
 layout: post
 title:  How to Set Up a Mini Arcade Machine or Similar Using a Raspberry Pi
 author: Joshua Britain
+tags: Guide Hardware
 ---
 
 This guide will explain how to set up your own mini or full size arcade machine using a Raspberry Pi. It does not contain any instructions for building the device itself, only the internals

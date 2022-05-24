@@ -2,6 +2,7 @@
 layout: post
 title:  Install LineageOS on the 2015 Galaxy A3
 author: Joshua Britain
+tags: Guide Android
 ---
 
 I know this isn't the sort of content you might expect as the first post on my blog, but here we are. I recently installed LineageOS 14 on my old 2015 Samsung Galaxy A3, and thought I would share the process if for some reason you decide to trust me more than the many other sites explaining how to do this.
