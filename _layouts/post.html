@@ -17,3 +17,14 @@ layout: default
 <article style="max-width: 100vw;">
     {% include anchor_headings.html html=content anchorBody="#" %}
 </article>
+
+<hr>
+
+<div>
+    {% if page.previous.url %}
+      <a style="float: left;" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a style="float: right;" class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+</div>
