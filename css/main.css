@@ -128,6 +128,11 @@ button, .card, input, textarea {
     color: var(--main-text-color);
 }
 
+main img {
+    border: 1px solid var(--faint-text-color);
+    border-radius: 4px;
+}
+
 button, input[type=button], input[type=submit], input[type=reset] {
     cursor: pointer;
     transition: background-color 0.2s, color 0.2s;

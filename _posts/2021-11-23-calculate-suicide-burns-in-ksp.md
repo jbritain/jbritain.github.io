@@ -2,7 +2,7 @@
 layout: post
 title: Calculating Suicide Burns in Kerbal Space Program
 author: Joshua Britain
-tags: Project Web
+tags: Project Web Python
 ---
 
 A suicide burn (technically called a 'hoverslam') is quite a simple idea. You have a falling rocket, and you want to have it stop as it hits the ground (as in slow down via engine power, as opposed to stopping because it hit the ground). Basically, you want to bring your velocity down to zero metres per second just before you hit the ground. It sounds simple (not really, but let me make it dramatic, OK?). And that's what I thought. As you might expect, it wasn't.
