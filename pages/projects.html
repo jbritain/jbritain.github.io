@@ -12,11 +12,11 @@ permalink: /projects/
             <p>{{ project }}</p>
 
             {% if project.link != nil %}
-                <a href="{{ project.link }}">View project</a>
+                <a href="{{ project.link }}"><button>View project page</button></a>
             {% endif %}
 
             {% if project.code != nil %}
-                <a href="{{ project.code }}">View code</a>
+                <a href="{{ project.code }}"><button>View code{% if project.code contains "github" %} on {% octicon mark-github %} {% octicon logo-github %}{% endif %}</button></a>
             {% endif %}
         </div>
 

@@ -198,3 +198,12 @@ textarea {
     color: var(--faint-text-color) !important;
     text-decoration: none;
 }
+
+.octicon {
+    filter: invert(100%);
+    vertical-align: text-top
+}
+
+button:hover .octicon, link:hover .octicon {
+    filter: unset
+}
