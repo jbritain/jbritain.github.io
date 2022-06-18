@@ -34,7 +34,7 @@ With the help of my physics class, I have redefined all of the units as follows:
 | Amount of Substance | Mole (mole) | Aardvark (a) |
 | Length | Metre (m) | Banana Muffin (🧁) |
 | Mass | Kilogram (kg) | Pigeon (🕊️) |
-| Temperature | Degrees Kelvin (K) | Rimmer (🥣) |
+| Temperature | Degrees Kelvin (K) | Mrs Rossiter's Oven (Oᵥ) |
 | Luminous Intensity | Candela (cd) | Shiny (✨) |
 | Electric Current | Ampere (A) | Spoon (🥄) |
 | Time | Second (S) | Uncomfortable Pause (uₚ) |
