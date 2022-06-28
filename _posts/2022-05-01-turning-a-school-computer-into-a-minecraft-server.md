@@ -42,6 +42,9 @@ A few days in, one of my friends who had been putting in quite a lot of time and
 
 Now I don't know about you, but I think repurposing a school computer as a Minecraft server is kinda poetic, and it also means one less computer that's still got some life in it is being thrown out. What started off as me asking one of my friends "here, do you reckon they would let me take that computer" resulted in what will hopefully be money saved in the long run, as in the past we've had to spend £6 a month to host a server, whereas now the only cost is the electricity bill. Let's just hope it's not costing more than that to keep this thing running.
 
+![The computer](/assets/posts/schoolcomputer/PXL_20220517_224209515.jpg)
+*The computer's new home, also serving as a pretty good way to prop up my second monitor amidst the chaos of my desk. I have no idea why the plant is flopping over but I have since propped it up with a harmonica.*
+
 ## Future Plans
 
 Here are some things I want to set up/try with this computer
