@@ -35,7 +35,10 @@ If you want to contact me, fill out the form on the [contact page](/contact) to 
 
 [More videos](https://www.youtube.com/channel/{{ site.youtube }})
 
+
 <script> // yes, javascript code I wrote myself that isn't spaghetti
+    var DateTime = luxon.DateTime;
+
     const frame = document.getElementById("YTEmbed");
     const title = document.getElementById("YTTitle")
     const info = document.getElementById("YTInfo")
@@ -50,10 +53,14 @@ If you want to contact me, fill out the form on the [contact page](/contact) to 
             guid = video["guid"]
 
             const embedURL = "https://www.youtube-nocookie.com/embed/" + guid.replace("yt:video:", "");
+
+            var rawDate = video["pubDate"]
+            var date = DateTime.fromFormat(video["pubDate"], "yyyy-MM-dd hh:mm:ss").toLocaleString(DateTime.DATE_MED);
+
             
             frame.src = embedURL;
             title.innerText = video["title"];
-            info.innerText = "By " + video["author"]
+            info.innerText = `By ${video["author"]} • ${date}`
             description.innerText = video["description"]
         })
         .catch(console.error);
