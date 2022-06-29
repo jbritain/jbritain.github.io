@@ -1,7 +1,7 @@
 title: jbritain.github.io
 
 github: jbritain
-youtube: UCsixy16a1K_PZ2sudNt2zrQ
+youtube: UCs6xm-dG9-NVL9UDl_kdGHQ
 
 plugins:
   - jekyll-feed
@@ -11,5 +11,3 @@ plugins:
 
 collections:
   - projects
-
-permalink: pretty
