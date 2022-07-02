@@ -1,5 +1,5 @@
 <nav>
-    <a id="navTitle" href="/">{{ site.title }}</a> |
+    <a d="navTitle" href="/">{{ site.title }}</a> |
 
     {% for link in site.data.navigation.links %}
             <a {% if link.title == page.title %}class="link-selected"{% endif %} href="{{ link.url }}">{{ link.title }}</a>

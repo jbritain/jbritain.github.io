@@ -4,8 +4,7 @@ permalink: //fun/wikipedia/
 layout: page
 ---
 
-A compilation of funny Wikipedia articles I find. It's mainly the titles or context that's funny, most Wikipedia articles themselves aren't very fun.
-This list will be updated periodically.
+A compilation of funny Wikipedia articles I find. Some of these articles have content that is amusing, some of them are only funny because of the title.
 
 - [Catmando](https://en.wikipedia.org/wiki/Catmando)
 - [Toilet Paper Orientation](https://en.wikipedia.org/wiki/Toilet_roll_holder#Orientation)
@@ -18,5 +17,6 @@ This list will be updated periodically.
 - [Attempted Theft of George Washington's Skull](https://en.wikipedia.org/wiki/Attempted_theft_of_George_Washington%27s_skull)
 - [Deleted Wikipedia Articles With Freaky Titles](https://en.wikipedia.org/wiki/Wikipedia:Deleted_articles_with_freaky_titles)
 - [Cock and Ball Torture (band)](https://en.wikipedia.org/wiki/Cock_and_Ball_Torture_(band))
+- [Andy (goose)](https://en.wikipedia.org/wiki/Andy_(goose))
 
 Credit for finding several of these gems goes to my friend Scott.
