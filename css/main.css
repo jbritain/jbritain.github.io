@@ -153,6 +153,10 @@ button:hover, input[type=button]:hover, input[type=submit]:hover, input[type=res
     flex-grow: 1;
 }
 
+.card.nopadding {
+    padding: 0px
+}
+
 @media screen and (min-width: 600px) {
     .card {
         flex-basis: 300px;

@@ -20,5 +20,5 @@ I've actually had this site since early 2019, and I've been slowly iterating on 
 
 *Here are some statistics for GitHub, they seem cool*
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbritain&show_icons=true&theme=dark)
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jbritain&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbritain&show_icons=true&theme=dark&hide_border=true)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jbritain&show_icons=true&theme=dark&hide_border=true)

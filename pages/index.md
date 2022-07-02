@@ -30,7 +30,7 @@ If you want to contact me, fill out the form on the [contact page](/contact) to 
 ## Latest YouTube Video
 <h3 id="YTTitle">Video failed to load</h3>
 <small id="YTInfo"></small>
-<iframe style="width: 560px; height: 315px; max-width: 100%" frameborder="0" class="card" id="YTEmbed">Your browser does not support iFrames.</iframe>
+<iframe style="width: 560px; height: 315px; max-width: 100%" frameborder="0" class="card nopadding" id="YTEmbed">Your browser does not support iFrames.</iframe>
 <p id="YTDescription"></p>
 
 [More videos](https://www.youtube.com/channel/{{ site.youtube }})
